@@ -1,0 +1,35 @@
+.container{
+    height: 450px;
+    /*border: 2px; solid black;*/
+    position: relative;
+}
+.a,.b,.c,.d{
+    width: 100px;
+    /*border: 2px solid black;*/
+    display: inline-block;
+    margin: 15px;
+    align-items: top;
+    position: relative;
+}
+.e,.f,.g,.h{
+    width: 100px;
+    /*border: 2px solid black;*/
+    display: inline-block;
+    margin: 15px;
+    align-items: top;
+    position: relative;
+}
+img{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    background-color: black;
+    color: white;
+    width: 100px;
+    position: absolute;
+    top: 0px;
+    font-weight: 500;
+    margin: 0%px;
+}
